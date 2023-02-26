@@ -1,0 +1,11 @@
+10
+1974-08-26 buy-low aep 1
+1978-08-23 sell-high aep 1
+1985-03-08 buy-low abx 5
+1987-09-18 sell-high abx 5
+1990-11-05 buy-low adi 42
+1998-04-30 sell-high adi 42
+2003-04-17 buy-low aapl 847
+2007-12-27 sell-high aapl 847
+2010-11-12 buy-low acad 33870
+2015-07-15 sell-high acad 33870
